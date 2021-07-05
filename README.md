@@ -11,11 +11,14 @@
     <li>
         😄 Pronouns: He / Him
     </li>
-    
+
 
 </ul>
+<h2>
+    Stats
+</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jimmyahalpara&show_icons=true&bg_color=0,360033,0b8793&text_color=ffffff&icon_color=ffff00&title_color=00cfff">
-        <br>
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=20&layout=compact&bg_color=90,0b8793,0b8793,360033&text_color=ffffff&icon_color=ffff00&title_color=00bfff">
 </p>
