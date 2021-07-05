@@ -1,7 +1,12 @@
-<link rel="stylesheet" href="style.css">
+<p id="myname" align="center">
+    <img src="files/name.gif" style="width: 50%">
+</p>
 <h1 align="center">
     Hi, I am Jimmy
 </h1>
+
+trial
+
 <ul>
     <li>🌱 I’m currently learning Deep Learning and Full Stack Development</li>
     <li>💬 Ask me about Python, Deep Learning, Full Stack Development, PHP</li>
