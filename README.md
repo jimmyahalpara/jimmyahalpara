@@ -1,5 +1,5 @@
 <p id="myname" align="center">
-    <img src="files/name.gif" style="width: 100px">
+    <img src="files/name.gif" width="200">
 </p>
 <h1 align="center">
     Hi, I am Jimmy
