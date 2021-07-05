@@ -9,7 +9,7 @@
         <a href="mailto:jimmyahalpara123@gmail.com">Mail Me</a>
     </li>
     <li>🌐 My Website:
-        <a href="https://jimmyahalpara.github.io/">Click Here</a>
+        <a href="https://jimmyahalpara.github.io/" target="_blank">Click Here</a>
     </li>
     <li>
         😄 Pronouns: He / Him
