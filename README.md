@@ -1,5 +1,8 @@
 ### Hi there I am Jimmy
 
+- I'm currently learning - Deep Learning and Full Stack Development
+- Ask me about  - Python, Deep Learning, PHP
+- How to reach me: [GitHub](mailto:jimmyahalpara123@gmail.com)
 
 
 <!--
