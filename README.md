@@ -8,9 +8,13 @@
     <li>📫 How to reach me:
         <a href="mailto:jimmyahalpara123@gmail.com">Mail Me</a>
     </li>
+    <li>🌐 My Website:
+        <a href="https://jimmyahalpara.github.io/">Mail Me</a>
+    </li>
     <li>
         😄 Pronouns: He / Him
     </li>
+
 
 
 </ul>
