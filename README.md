@@ -1,10 +1,9 @@
-### Hi there I am Jimmy
+<h1 style="color: blue"> Hi there I am Jimmy </h1>
 
 - I'm currently learning - Deep Learning and Full Stack Development
 - Ask me about  - Python, Deep Learning, PHP
-- How to reach me: [GitHub](mailto:jimmyahalpara123@gmail.com)
-
-
+- How to reach me: [Mail Me](mailto:jimmyahalpara123@gmail.com)
+-
 <!--
 **jimmyahalpara/jimmyahalpara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
