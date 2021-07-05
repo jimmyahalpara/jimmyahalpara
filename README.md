@@ -2,10 +2,9 @@
     <img src="files/name.gif" width="400">
 </p>
 <h1 align="center">
-    Hi, I am Jimmy
+    Hi
 </h1>
 
-trial
 
 <ul>
     <li>🌱 I’m currently learning Deep Learning and Full Stack Development</li>
