@@ -7,13 +7,13 @@
 
 
 <ul>
-    <li>🌱 I’m currently learning Deep Learning and Full Stack Development</li>
-    <li>💬 Ask me about Python, Deep Learning, Full Stack Development, PHP</li>
+    <li>🌱 I’m currently learning Node</li>
+    <li>💬 Ask me about VueJS, PHP, Laravel, Python, Deep Learning, Full Stack Development</li>
     <li>📫 How to reach me:
         <a href="mailto:jimmyahalpara123@gmail.com">Mail Me</a>
     </li>
-    <li>🌐 My Website:
-        <a href="https://jimmyahalpara.github.io/" target="_blank">Click Here</a>
+    <li>🌐 My Website: (Under Construction 🛠)
+<!--         <a href="https://jimmyahalpara.github.io/" target="_blank">Click Here</a> -->
     </li>
     <li>
         😄 Pronouns: He / Him
