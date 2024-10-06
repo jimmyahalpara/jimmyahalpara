@@ -1,6 +1,3 @@
-<p id="myname" align="center">
-    <img src="files/name.gif" width="400">
-</p>
 <h1 align="center">
     Hi
 </h1>
