@@ -15,7 +15,6 @@
     <li>
         😄 Pronouns: He / Him
     </li>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmyahalpara&label=Profile%20views&color=0e75b6&style=flat" alt="jimmyahalpara" /> </p>
 
 
 
@@ -23,6 +22,7 @@
 <h2>
     Stats
 </h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jimmyahalpara&label=Profile%20views&color=0e75b6&style=flat" alt="jimmyahalpara" /> </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jimmyahalpara&show_icons=true&bg_color=0,360033,000000&text_color=ffffff&icon_color=ffff00&title_color=00bfff">
     <br>
